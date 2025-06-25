@@ -1,0 +1,5 @@
+Question,Answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn from data.
+What is Python?,Python is a popular programming language known for its simplicity and versatility.
+How does the FAQ chatbot work?,It matches your question to the most relevant FAQ using NLP and cosine similarity. 
